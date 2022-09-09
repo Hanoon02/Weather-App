@@ -1,3 +1,3 @@
 # Weather-App
 
-## Empty Repo, will update soon
+## Sample Weather App using OpenWeatherMap API in JavaScript
